@@ -9,12 +9,34 @@
     margin-bottom: 3rem;
 }
 
+
 .title h1 {
     font-size: 2rem;
     color: rgb(153, 114, 143);
     font-weight: 500;
 }
 
+button {
+    margin-bottom: .8rem;
+}
+
 .table {
     width: 100%;
+}
+
+.livros {
+    margin-left: .6rem;
+    color: rgb(20, 106, 235);
+}
+
+.edit {
+    color: rgb(155, 69, 8);
+}
+
+.delete {
+    color: rgb(226, 30, 30);
+    margin-left: .5rem;
+}
+.mat-header {
+    width: 5rem;
 }
